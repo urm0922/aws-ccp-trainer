@@ -19,4 +19,3 @@ AWS Certified Cloud Practitioner向けのオリジナル問題演習アプリで
 
 
 
-`http://localhost:3000` を開いてください。現在はセットアップ不要で試せるよう、回答履歴とお気に入りをlocalStorageへ保存します。`supabase/schema.sql` は認証付きクラウド保存へ移行するためのDBスキーマです。
